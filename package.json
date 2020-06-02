@@ -1,0 +1,15 @@
+{
+    "name": "webbranch-vscode-extension-pack",
+    "displayName": "webbranch-vscode-extension-pack",
+    "description": "desc",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
