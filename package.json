@@ -23,7 +23,6 @@
         "eamodio.gitlens",
         "donjayamanne.githistory",
         "redhat.vscode-yaml",
-        "equinusocio.vsc-material-theme",
         "coenraads.bracket-pair-colorizer",
         "davidanson.vscode-markdownlint",
         "yzhang.markdown-all-in-one",
@@ -32,6 +31,7 @@
         "dsznajder.es7-react-js-snippets",
         "xabikos.javascriptsnippets",
         "formulahendry.auto-rename-tag",
-        "eg2.vscode-npm-script"
+        "eg2.vscode-npm-script",
+        "ms-vscode.vs-keybindings"
     ]
 }
