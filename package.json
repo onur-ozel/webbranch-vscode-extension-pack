@@ -9,11 +9,18 @@
     "categories": [
         "Extension Packs"
     ],
+    "keywords": [
+        "webbranch"
+    ],
     "publisher": "onurozel",
     "icon": "icon.png",
+    "bugs": {
+        "email": "onurozel41@gmail.com",
+        "url": "https://github.com/onur-ozel/webbranch-vscode-extension-pack/issues"
+    },
     "repository": {
         "type": "git",
-        "url": "<GIT_URL>"
+        "url": "https://github.com/onur-ozel/webbranch-vscode-extension-pack.git"
     },
     "extensionPack": [
         "dbaeumer.vscode-eslint",
