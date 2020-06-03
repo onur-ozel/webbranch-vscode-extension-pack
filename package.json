@@ -1,7 +1,7 @@
 {
     "name": "webbranch-vscode-extension-pack",
-    "displayName": "webbranch-vscode-extension-pack",
-    "description": "desc",
+    "displayName": "Webbranch Recommended Extensions",
+    "description": "Recommended extensions to improve webbranch development",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
@@ -9,7 +9,29 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "publisher.extensionName"
+    "publisher": "onurozel",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "<GIT_URL>"
+    },
+    "extensionPack": [
+        "dbaeumer.vscode-eslint",
+        "visualstudioexptteam.vscodeintellicode",
+        "esbenp.prettier-vscode",
+        "editorconfig.editorconfig",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "redhat.vscode-yaml",
+        "equinusocio.vsc-material-theme",
+        "coenraads.bracket-pair-colorizer",
+        "davidanson.vscode-markdownlint",
+        "yzhang.markdown-all-in-one",
+        "ms-azuretools.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "dsznajder.es7-react-js-snippets",
+        "xabikos.javascriptsnippets",
+        "formulahendry.auto-rename-tag",
+        "eg2.vscode-npm-script"
     ]
 }
